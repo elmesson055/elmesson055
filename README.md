@@ -1,5 +1,6 @@
 </div>
-🎯 ## Eu Sou...
+🎯   ## Eu Sou...
+## Tecnologias
 * 🧙‍♂️ Me chamo Élmesson, Ajudo pessoas com melhorias de processos de TI e Serviços
 * 🚀 Sou Analista de T.I e Dados
 * 🌍 Estou situado em [Belo Horizonte, Minas Gerais, Brasil](https://www.google.com.br/maps/place/Belo+Horizonte,+MG/@-19.9025359,-44.046451,12z/data=!3m1!4b1!4m6!3m5!1s0xa690cacacf2c33:0x5b35795e3ad23997!8m2!3d-19.919052!4d-43.9386685!16zL20vMGwzcTI?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D)
