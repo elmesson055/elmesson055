@@ -1,9 +1,7 @@
-</div>
- ## Eu Sou...
-</div>
+
 </div>
 
- ## Objetivo Profissional:
+ ##  ## Eu Sou...
 
 <div>
 * 🧙‍♂️ Me chamo Élmesson, Ajudo pessoas com melhorias de processos de TI e Serviços
@@ -13,12 +11,10 @@
 
 Profissional especializado em Tecnologia da Informação com uma sólida pós-graduação em Business Intelligence e Analytics. 
 Possuo experiência prática e habilidades avançadas em análise de dados, criação de pipelines, deploy e automação de tarefas que otimizam resultados e promovem eficiência.
-</div>
-## Habilidades Técnicas:
-</div>
+
 </div>
 
- ## Objetivo Profissional:
+ ## Habilidades Técnicas:
 
 <div>
 Desenvolvimento de Dashboards: Aplicação de storytelling, criação de análises detalhadas para insights estratégicos.
