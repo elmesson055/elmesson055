@@ -1,14 +1,13 @@
-
+🎯 ## Eu Sou...
 * 🧙‍♂️ Me chamo Élmesson, Ajudo pessoas com melhorias de processos de TI e Serviços
 * 🚀 Sou Analista de T.I e Dados
 * 🌍 Estou situado em [Belo Horizonte, Minas Gerais, Brasil](https://www.google.com.br/maps/place/Belo+Horizonte,+MG/@-19.9025359,-44.046451,12z/data=!3m1!4b1!4m6!3m5!1s0xa690cacacf2c33:0x5b35795e3ad23997!8m2!3d-19.919052!4d-43.9386685!16zL20vMGwzcTI?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D)
 
-🎯 Eu Sou...
 
 Profissional especializado em Tecnologia da Informação com uma sólida pós-graduação em Business Intelligence e Analytics. 
 Possuo experiência prática e habilidades avançadas em análise de dados, criação de pipelines, deploy e automação de tarefas que otimizam resultados e promovem eficiência.
 
-🎯 Habilidades Técnicas:
+🎯 ## Habilidades Técnicas:
 
 Desenvolvimento de Dashboards: Aplicação de storytelling, criação de análises detalhadas para insights estratégicos.
 
@@ -18,7 +17,7 @@ Data Warehouses e Bancos de Dados: Experiência com MySQL, SQL Server e PostgreS
 
 Engenharia de Prompt e APIs: Conhecimento em Supabase e APIs, permitindo integrações rápidas e manipulação de dados.
 
-🎯 Objetivo Profissional:
+🎯 ##Objetivo Profissional:
  Busco uma posição onde possa aplicar minhas habilidades em análise e automação para resolver desafios complexos e inovar na tomada de decisões baseada em dados. 
 Estou sempre interessado em colaborar e agregar valor em projetos de TI e BI que priorizem eficiência, integração e resultados mensuráveis.
 
@@ -36,14 +35,11 @@ Estou sempre interessado em colaborar e agregar valor em projetos de TI e BI que
   <a href="https://microsoft.com/excel" target="_blank" rel="noreferrer"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/excel.png"  width="36" height="36" alt="Microsoft Excel" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  
+
   
 </div>
 
