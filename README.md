@@ -1,9 +1,10 @@
 
 </div>
 
- ##  ## Eu Sou...
+ ## Eu Sou...
 
 <div>
+ 
 * 🧙‍♂️ Me chamo Élmesson, Ajudo pessoas com melhorias de processos de TI e Serviços
 * 🚀 Sou Analista de T.I e Dados
 * 🌍 Estou situado em [Belo Horizonte, Minas Gerais, Brasil]
