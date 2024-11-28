@@ -20,7 +20,7 @@ Data Warehouses e Bancos de Dados: Experiência com MySQL, SQL Server e PostgreS
 Engenharia de Prompt e APIs: Conhecimento em Supabase e APIs, permitindo integrações rápidas e manipulação de dados.
 </div>
 
-🎯  ## Objetivo Profissional:
+ ## Objetivo Profissional:
 
 <div>
  Busco uma posição onde possa aplicar minhas habilidades em análise e automação para resolver desafios complexos e inovar na tomada de decisões baseada em dados. 
