@@ -1,6 +1,6 @@
-</div>
+
 🎯   ## Eu Sou...
-</div>
+
 * 🧙‍♂️ Me chamo Élmesson, Ajudo pessoas com melhorias de processos de TI e Serviços
 * 🚀 Sou Analista de T.I e Dados
 * 🌍 Estou situado em [Belo Horizonte, Minas Gerais, Brasil](https://www.google.com.br/maps/place/Belo+Horizonte,+MG/@-19.9025359,-44.046451,12z/data=!3m1!4b1!4m6!3m5!1s0xa690cacacf2c33:0x5b35795e3ad23997!8m2!3d-19.919052!4d-43.9386685!16zL20vMGwzcTI?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D)
@@ -18,8 +18,12 @@ Automação e Deploy: Utilização do GitHub Actions, VS Code , ApacheHop, Docke
 Data Warehouses e Bancos de Dados: Experiência com MySQL, SQL Server e PostgreSQL, com foco em estruturação de dados e ETL para análise avançada.
 
 Engenharia de Prompt e APIs: Conhecimento em Supabase e APIs, permitindo integrações rápidas e manipulação de dados.
+</div>
 
-🎯 ##Objetivo Profissional:
+## Estatísticas
+
+<div>
+🎯 ## Objetivo Profissional:
  Busco uma posição onde possa aplicar minhas habilidades em análise e automação para resolver desafios complexos e inovar na tomada de decisões baseada em dados. 
 Estou sempre interessado em colaborar e agregar valor em projetos de TI e BI que priorizem eficiência, integração e resultados mensuráveis.
 </div>
