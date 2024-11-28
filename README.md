@@ -1,4 +1,4 @@
-<div>
+
 🎯   ## Eu Sou...
 
 * 🧙‍♂️ Me chamo Élmesson, Ajudo pessoas com melhorias de processos de TI e Serviços
@@ -23,7 +23,7 @@ Engenharia de Prompt e APIs: Conhecimento em Supabase e APIs, permitindo integra
  Busco uma posição onde possa aplicar minhas habilidades em análise e automação para resolver desafios complexos e inovar na tomada de decisões baseada em dados. 
 Estou sempre interessado em colaborar e agregar valor em projetos de TI e BI que priorizem eficiência, integração e resultados mensuráveis.
 
-</div>
+
 ## Tecnologias
 
 <div align="left">
