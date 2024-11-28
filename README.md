@@ -1,6 +1,6 @@
-
-🎯   ## Eu Sou...
-
+</div>
+ ## Eu Sou...
+<div>
 * 🧙‍♂️ Me chamo Élmesson, Ajudo pessoas com melhorias de processos de TI e Serviços
 * 🚀 Sou Analista de T.I e Dados
 * 🌍 Estou situado em [Belo Horizonte, Minas Gerais, Brasil](https://www.google.com.br/maps/place/Belo+Horizonte,+MG/@-19.9025359,-44.046451,12z/data=!3m1!4b1!4m6!3m5!1s0xa690cacacf2c33:0x5b35795e3ad23997!8m2!3d-19.919052!4d-43.9386685!16zL20vMGwzcTI?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D)
@@ -8,9 +8,9 @@
 
 Profissional especializado em Tecnologia da Informação com uma sólida pós-graduação em Business Intelligence e Analytics. 
 Possuo experiência prática e habilidades avançadas em análise de dados, criação de pipelines, deploy e automação de tarefas que otimizam resultados e promovem eficiência.
-
-🎯 ## Habilidades Técnicas:
-
+</div>
+## Habilidades Técnicas:
+<div>
 Desenvolvimento de Dashboards: Aplicação de storytelling, criação de análises detalhadas para insights estratégicos.
 
 Automação e Deploy: Utilização do GitHub Actions, VS Code , ApacheHop, Docker para facilitar deploys de aplicação e a clonagem de repositórios com agilidade e eficiência.
