@@ -1,24 +1,55 @@
-## Olá eu sou Élmesson J. Ribeiro
+
+* 🧙‍♂️ Me chamo Élmesson, Ajudo pessoas com melhorias de processos de TI e Serviços
+* 🚀 Sou Analista de T.I e Dados
+* 🌍 Estou situado em [Belo Horizonte, Minas Gerais, Brasil](https://www.google.com.br/maps/place/Belo+Horizonte,+MG/@-19.9025359,-44.046451,12z/data=!3m1!4b1!4m6!3m5!1s0xa690cacacf2c33:0x5b35795e3ad23997!8m2!3d-19.919052!4d-43.9386685!16zL20vMGwzcTI?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D)
+
+🎯 Eu Sou...
+
+Profissional especializado em Tecnologia da Informação com uma sólida pós-graduação em Business Intelligence e Analytics. 
+Possuo experiência prática e habilidades avançadas em análise de dados, criação de pipelines, deploy e automação de tarefas que otimizam resultados e promovem eficiência.
+
+🎯 Habilidades Técnicas:
+
+Desenvolvimento de Dashboards: Aplicação de storytelling, criação de análises detalhadas para insights estratégicos.
+
+Automação e Deploy: Utilização do GitHub Actions, VS Code , ApacheHop, Docker para facilitar deploys de aplicação e a clonagem de repositórios com agilidade e eficiência.
+
+Data Warehouses e Bancos de Dados: Experiência com MySQL, SQL Server e PostgreSQL, com foco em estruturação de dados e ETL para análise avançada.
+
+Engenharia de Prompt e APIs: Conhecimento em Supabase e APIs, permitindo integrações rápidas e manipulação de dados.
+
+🎯 Objetivo Profissional:
+ Busco uma posição onde possa aplicar minhas habilidades em análise e automação para resolver desafios complexos e inovar na tomada de decisões baseada em dados. 
+Estou sempre interessado em colaborar e agregar valor em projetos de TI e BI que priorizem eficiência, integração e resultados mensuráveis.
 
 
+## Tecnologias
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- </div>
+<div align="left">
+  <a href="https://www.microsoft.com/en-usr/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/powerbi.png"  width="36" height="36" alt="Microsoft Power BI" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank" rel="noreferrer"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/fabric.png"  width="36" height="36" alt="Microsoft Fabric" /></a>
+  <a href="https://daxstudio.org" target="_blank" rel="noreferrer"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/dax-studio.png"  width="36" height="36" alt="Dax Studio" /></a>
+  <a href="https://www.sqlbi.com/tools/tabular-editor" target="_blank" rel="noreferrer"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/tabular-editor.png"  width="36" height="36" alt="Tabular Editor" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/sql-server.png"  width="36" height="36" alt="Microsoft SQL Server" /></a>
+  <a href="https://portal.azure.com" target="_blank" rel="noreferrer"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/azure.png"  width="36" height="36" alt="Microsoft Azure" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://microsoft.com/excel" target="_blank" rel="noreferrer"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/excel.png"  width="36" height="36" alt="Microsoft Excel" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   
-  ![Snake animation](https://github.com/elmesson055/elmesson055/blob/output/github-contribution-grid-snake.svg)
-
- 
-<div> 
- 
-  <a href = "mailto:elmesson.ribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/elmessonribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmesson055&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elmesson055&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## Estatísticas
+
+<div>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=elmesson055&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmesson055&locale=en&hide_title=false&layout=compact&bg_color=00000000&langs_count=10&hide_border=true&order=2&hide=roff"  alt="languages graph"  />
+</div>
